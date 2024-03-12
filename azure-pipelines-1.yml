@@ -4,7 +4,7 @@
 
 trigger:
 - main
-- Staging 
+- Staging
 - Production
 
 resources:
